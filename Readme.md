@@ -3,6 +3,8 @@
 * Студент: &nbsp;[Елена Ивашнева](https://htmlacademy.ru/profile/elena-ivashneva)<br>
 * Проект на GitHub Pages: &nbsp;[https://elena-ivashneva.github.io/2107255-sedona-40/](https://elena-ivashneva.github.io/2107255-sedona-40/)
 
+![Sedona](sedona.jpg)
+
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
